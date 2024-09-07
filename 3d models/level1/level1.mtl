@@ -1,0 +1,79 @@
+# Blender 4.0.2 MTL File: 'level1.blend'
+# www.blender.org
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.007
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.009
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.010
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
+
+newmtl Material.011
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd medieval_red_brick_diff_1k.jpg
+map_Ks medieval_red_brick_spec_1k.jpg
+map_Ns medieval_red_brick_rough_1k.jpg
+map_Bump -bm 1.000000 medieval_red_brick_nor_gl_1k.png
